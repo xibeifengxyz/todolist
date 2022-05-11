@@ -14,5 +14,6 @@ function App() {
 }
 
 // 我添加了新功能1
+// 我添加了功能2
 
 export default App;
